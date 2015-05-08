@@ -1,0 +1,14 @@
+E:\VB program\assignment 1\assignment 1\bin\Release\assignment 1.exe
+E:\VB program\assignment 1\assignment 1\bin\Release\assignment 1.pdb
+E:\VB program\assignment 1\assignment 1\bin\Release\assignment 1.xml
+E:\VB program\assignment 1\assignment 1\obj\Release\ResolveAssemblyReference.cache
+E:\VB program\assignment 1\assignment 1\obj\Release\WindowsApplication1.form1.resources
+E:\VB program\assignment 1\assignment 1\obj\Release\WindowsApplication1.Resources.resources
+E:\VB program\assignment 1\assignment 1\obj\Release\assignment 1.vbproj.GenerateResource.Cache
+E:\VB program\assignment 1\assignment 1\obj\Release\assignment 1.exe
+E:\VB program\assignment 1\assignment 1\obj\Release\assignment 1.xml
+E:\VB program\assignment 1\assignment 1\obj\Release\assignment 1.pdb
+E:\VB program\assignment 1\assignment 1\bin\Release\assignment 1.exe.manifest
+E:\VB program\assignment 1\assignment 1\bin\Release\assignment 1.application
+E:\VB program\assignment 1\assignment 1\obj\Release\assignment 1.exe.manifest
+E:\VB program\assignment 1\assignment 1\obj\Release\assignment 1.application

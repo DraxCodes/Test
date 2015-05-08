@@ -1,0 +1,44 @@
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\bin\Debug\assignment 1.exe
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\bin\Debug\assignment 1.pdb
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\bin\Debug\assignment 1.xml
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\obj\Debug\ResolveAssemblyReference.cache
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\obj\Debug\WindowsApplication1.form1.resources
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\obj\Debug\WindowsApplication1.Resources.resources
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\obj\Debug\assignment 1.vbproj.GenerateResource.Cache
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\obj\Debug\assignment 1.exe
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\obj\Debug\assignment 1.xml
+\\y-storage02\Y-W-STU-01-H\427075\Work\Visual Studio 2008\Projects\assignment 1\assignment 1\obj\Debug\assignment 1.pdb
+C:\Users\Joel\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.exe
+C:\Users\Joel\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.xml
+C:\Users\Joel\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.pdb
+C:\Users\Joel\Desktop\assignment 1\assignment 1\bin\Debug\assignment 1.exe
+C:\Users\Joel\Desktop\assignment 1\assignment 1\bin\Debug\assignment 1.pdb
+C:\Users\Joel\Desktop\assignment 1\assignment 1\bin\Debug\assignment 1.xml
+C:\Users\Joel\Desktop\assignment 1\assignment 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\assignment 1\assignment 1\obj\Debug\WindowsApplication1.form1.resources
+C:\Users\Joel\Desktop\assignment 1\assignment 1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joel\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.vbproj.GenerateResource.Cache
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\obj\Debug\assignment 1.exe
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\obj\Debug\assignment 1.xml
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\obj\Debug\assignment 1.pdb
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\bin\Debug\assignment 1.exe
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\bin\Debug\assignment 1.pdb
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\bin\Debug\assignment 1.xml
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\obj\Debug\ResolveAssemblyReference.cache
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\obj\Debug\WindowsApplication1.form1.resources
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\obj\Debug\WindowsApplication1.Resources.resources
+H:\Level 3\Unit 6 and 14\Work from home\Updated Assignment (vb program BTEC grading calculator)\assignment 1\assignment 1\obj\Debug\assignment 1.vbproj.GenerateResource.Cache
+E:\VB program\assignment 1\assignment 1\obj\Debug\assignment 1.exe
+E:\VB program\assignment 1\assignment 1\obj\Debug\assignment 1.xml
+E:\VB program\assignment 1\assignment 1\obj\Debug\assignment 1.pdb
+E:\VB program\assignment 1\assignment 1\bin\Debug\assignment 1.exe
+E:\VB program\assignment 1\assignment 1\bin\Debug\assignment 1.pdb
+E:\VB program\assignment 1\assignment 1\bin\Debug\assignment 1.xml
+E:\VB program\assignment 1\assignment 1\obj\Debug\ResolveAssemblyReference.cache
+E:\VB program\assignment 1\assignment 1\obj\Debug\WindowsApplication1.form1.resources
+E:\VB program\assignment 1\assignment 1\obj\Debug\WindowsApplication1.Resources.resources
+E:\VB program\assignment 1\assignment 1\obj\Debug\assignment 1.vbproj.GenerateResource.Cache
+E:\VB program\assignment 1\assignment 1\bin\Debug\assignment 1.exe.manifest
+E:\VB program\assignment 1\assignment 1\bin\Debug\assignment 1.application
+E:\VB program\assignment 1\assignment 1\obj\Debug\assignment 1.exe.manifest
+E:\VB program\assignment 1\assignment 1\obj\Debug\assignment 1.application
